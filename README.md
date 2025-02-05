@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shaurya21343
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning backend
+- 
   
 
 <!---
