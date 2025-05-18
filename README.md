@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shaurya21343
-- 👀 I’m interested in web development
+- 👀 13 yo
 - 🌱 I’m currently learning backend
 - 📖 open for contribution 
   
